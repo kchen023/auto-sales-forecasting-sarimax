@@ -55,23 +55,23 @@ This project demonstrates the complete empirical workflow that a **senior econom
 
 ---
 
-## 2. Project Structure
+## 2. Time Series Forecasting Structure
 
 The project follows a strict 13-step empirical workflow, mirroring the standards of top-tier academic econometrics and professional forecasting practice:
 
 ```
-Step 1  │ Import Libraries
-Step 2  │ Data Loading (FRED API)
+Step 1  │ Import Libraries (Python)
+Step 2  │ Data Loading (Auto Sales, Macroeconomics - Monetary Policy / Unemployment / Inflation / Income / Sentiment)
 Step 3  │ Train / Test Split
 Step 4  │ STL Decomposition (Trend, Seasonal, Residual)
 Step 5  │ Stationarity Tests (ADF + KPSS)
 Step 6  │ Structural Break Tests (Chow, Bai-Perron, CUSUM)
 Step 7  │ Missing Value Check and Interpolation
-Step 8  │ Model Selection and Exogenous Variable Construction
-Step 9  │ Lag Selection (ACF / PACF / AIC / BIC / HQIC Grid Search)
+Step 8  │ Model Selection and Exogenous Variable Construction (SARIMA / SARIMAX)
+Step 9  │ Lag Selection (ACF / PACF, AIC / BIC / HQIC Grid Search)
 Step 10 │ Model Fitting and Residual Diagnostics
 Step 11 │ Champion Model Selection (MAE / RMSE / MAPE / sMAPE)
-Step 12 │ Refit on Full Data — Recursive and Rolling Window
+Step 12 │ Refit on Full Data (Recursive / Rolling Window)
 Step 13 │ Business Interpretation and Scenario Analysis
 ```
 
