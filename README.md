@@ -683,28 +683,28 @@ The statistical results are translated into strategic intelligence:
 ## 6. Key Results
 
 ### STL Decomposition
-![STL Decomposition](step4_stl_decomposition.png)
+![STL Decomposition](step04_stl_decomposition.png)
 
 *Four-panel STL decomposition showing observed series, LOESS-smoothed trend, residual seasonal component, and remainder. Note the COVID-19 residual spike (April 2020) is correctly isolated by robust STL, confirming `robust=True` is the appropriate specification.*
 
 ---
 
 ### Stationarity Diagnostics
-![Stationarity](step5_stationarity.png)
+![Stationarity](step05_stationarity.png)
 
 *Four panels comparing the level series, log-level, first difference, and log first difference. The first-differenced series (bottom-left) oscillates around zero with no drift — visual confirmation of stationarity achieved at d=1.*
 
 ---
 
 ### Structural Break Detection
-![Structural Breaks](step6_structural_breaks.png)
+![Structural Breaks](step06_structural_breaks.png)
 
 *Top panel: TOTALSA with Bai-Perron break dates and regime means overlaid. Bottom panel: CUSUM of recursive residuals, exiting the 95% confidence band during the GFC — confirming the timing of parameter instability.*
 
 ---
 
 ### ACF/PACF Lag Selection Diagnostics
-![ACF PACF](step9_acf_pacf.png)
+![ACF PACF](step09_acf_pacf.png)
 
 *Four panels: ACF and PACF of first-differenced series (row 1) and seasonal+regular differenced series (row 2). The variance inflation in row 2 confirms over-differencing at D=1, validating D=0. Orange dashed lines mark the seasonal lags at 12 and 24.*
 
