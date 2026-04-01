@@ -67,7 +67,7 @@ Step 4  │ STL Decomposition (Trend, Seasonal, Residual)
 Step 5  │ Stationarity Tests (ADF + KPSS)
 Step 6  │ Structural Break Tests (Chow, Bai-Perron, CUSUM)
 Step 7  │ Missing Value Check and Interpolation
-Step 8  │ Model Selection and Exogenous Variable Construction (SARIMA / SARIMAX)
+Step 8  │ Model Selection and Exogenous Variable Construction (SARIMA / SARIMAX / ETS / Naive)
 Step 9  │ Lag Selection (ACF / PACF, AIC / BIC / HQIC Grid Search)
 Step 10 │ Model Fitting and Residual Diagnostics
 Step 11 │ Champion Model Selection (MAE / RMSE / MAPE / sMAPE)
