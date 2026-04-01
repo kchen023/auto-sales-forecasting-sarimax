@@ -51,7 +51,7 @@ US auto sales is not a simple, well-behaved time series. It presents the full sp
 
 ### Why This Workflow
 
-This project demonstrates the complete empirical workflow that a **senior economist at Amazon's Forecasting and Macroeconomics (FMF) group** or a **PhD-level econometrician** would follow — from raw data pull to boardroom-ready strategic interpretation. Every modeling decision is empirically justified, every assumption is tested, and every output is interpretable.
+This project demonstrates the complete empirical workflow that a **PhD-level econometrician** would follow — from raw data pull to boardroom-ready strategic interpretation. Every modeling decision is empirically justified, every assumption is tested, and every output is interpretable.
 
 ---
 
