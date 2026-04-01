@@ -895,14 +895,12 @@ us-auto-sales-forecast/
 - **NBER Business Cycle Dating Committee:** [https://www.nber.org/research/business-cycle-dating](https://www.nber.org/research/business-cycle-dating)
   *Recession dates used for shading in visualization.*
 
-### Software
+### Packages
 
 - **statsmodels:** Seabold, S. and Perktold, J. (2010). Statsmodels: Econometric and Statistical Modeling with Python. *Proceedings of the 9th Python in Science Conference.*
 - **pmdarima:** Smith, T.G. et al. (2017). pmdarima: ARIMA estimators for Python. [https://alkaline-ml.com/pmdarima](https://alkaline-ml.com/pmdarima)
 - **ruptures:** Truong, C., Oudre, L., and Vayatis, N. (2020). Selective review of offline change point detection methods. *Signal Processing*, 167.
 
 ---
-
-*This project was developed as a complete demonstration of professional-grade time-series forecasting methodology, from raw data ingestion through strategic business interpretation, following the empirical standards of Amazon FMF economists and top-tier academic econometrics.*
 
 *All code is reproducible given a valid FRED API key. Data is pulled programmatically — no manual downloads required.*
