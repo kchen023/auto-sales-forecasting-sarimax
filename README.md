@@ -1,6 +1,6 @@
 # US Auto Sales Forecasting — A Complete Time-Series Econometric Workflow
 
-> **A production-grade, end-to-end time-series forecasting project on US Total Vehicle Sales (TOTALSA), following the rigorous empirical standards of Amazon FMF Economists and academic econometrics.**
+> **A production-grade, end-to-end time-series forecasting project on US Total Vehicle Sales (TOTALSA), following the rigorous empirical standards of Macroeconomic/Forecasting/Finance Economists and academic econometrics.**
 
 ---
 
