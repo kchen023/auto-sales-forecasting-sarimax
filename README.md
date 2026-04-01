@@ -7,7 +7,7 @@
 ## Table of Contents
 
 1. [Why This Project Matters](#1-why-this-project-matters)
-2. [Project Structure](#2-project-structure)
+2. [Time Series Forecasting Structure](#2-time-series-forecasting-structure)
 3. [Data](#3-data)
 4. [Methodology Overview](#4-methodology-overview)
    - 4.1 [Model Candidates](#41-model-candidates)
