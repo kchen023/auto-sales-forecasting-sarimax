@@ -902,5 +902,7 @@ us-auto-sales-forecast/
 - **ruptures:** Truong, C., Oudre, L., and Vayatis, N. (2020). Selective review of offline change point detection methods. *Signal Processing*, 167.
 
 ---
+**Author:** Kai Chen, PhD, CFA | [LinkedIn](https://www.linkedin.com/in/kai-chen-phd-cfa-024696a1/) | [GitHub](https://github.com/kchen023)
+
 
 *All code is reproducible given a valid FRED API key. Data is pulled programmatically — no manual downloads required.*
